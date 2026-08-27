@@ -1,0 +1,17 @@
+# Deep Learning Laboratory (CS3807) Dependencies
+# Python >= 3.9 recommended
+
+# Core Scientific Computing & Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization & Plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning & Deep Learning Frameworks
+scikit-learn>=1.3.0
+tensorflow>=2.13.0
+
+# Repository & Dataset Access
+ucimlrepo>=0.0.6
